@@ -60,6 +60,8 @@ A operação de uma unidade de processamento, proposta por McCullock e Pitts em 
 
 A propriedade mais importante das redes neurais é a habilidade de aprender de seu ambiente e com isso melhorar seu desempenho. Isso é feito através de um processo iterativo de ajustes aplicado a seus pesos, o treinamento. O aprendizado ocorre quando a rede neural atinge uma solução generalizada para uma classe de problemas.
 
+https://sites.icmc.usp.br/andre/research/neural/
+
 
 
 
