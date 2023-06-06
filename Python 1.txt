@@ -1,0 +1,41 @@
+﻿def soma (a,b):
+        return a + b
+
+
+print (soma (2,3))
+
+
+def quadrado ( a ):
+        return a**2
+
+
+print ( quadrado ( 3 ))
+
+
+def hipotenusa( cateto1 , cateto2 ):
+        return soma(quadrado ( cateto1), quadrado(cateto2)) ** (1/2)
+
+
+print (hipotenusa(3,4))
+
+
+#  estruturas de decisão
+
+
+def simples (cor):
+        if cor == 'azul':
+            return 'escolheu certo'
+    
+def medio (cor):
+        if cor == 'azul':
+            return 'escolheu certo'
+        else:
+            return'tente outra vez'
+            
+def completo (cor):
+        if cor == 'azul':
+            return 'escolheu certo'
+        elif cor == 'roxo':
+            return'não tem salvação'
+        else:
+            return 'tente outra vez'
