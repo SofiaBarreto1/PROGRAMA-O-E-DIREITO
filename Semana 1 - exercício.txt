@@ -1,31 +1,30 @@
 ﻿NEUTRALIDADE DE REDE
 
-
 “Assim como todas as pessoas são iguais perante a lei, todos os dados devem ser iguais perante a rede.” — Sérgio Branco, diretor do Instituto de Tecnologia e Sociedade (ITS).
-
-
 A neutralidade da rede, que é um princípio previsto pelo Marco Civil da Internet, diz que todos os dados que trafegam na rede devem ser tratados de forma igualitária e com a mesma velocidade. Na prática, isso significa que os provedores de conexão devem ofertar todos os conteúdos de forma uniforme, e não podem priorizar o acesso a uma aplicação em detrimento a outra.[1]
-
-
 EX: É comum que a mesma companhia telefônica dê acesso à internet e ao telefone fixo. Para eles é mais lucrativo que você uma chamada pelo telefone do que pelo Skype, Google Meet, Whatsapp, etc. Sem a neutralidade de rede, toda vez que você acessasse o Skype, o Google Meet ou o Whatsapp, a companhia telefônica poderia degradar sua conexão de tal maneira que obrigaria-o a usar o telefone fixo, pagando mais por isso.[2]
 
 
 ZERO RATING
 
-
 Zero-rating refere-se a um modelo de negócio desenvolvido  por operadoras em parceria com provedores de aplicações que visam oferecer gratuidade no tráfego de dados para determinadas aplicações e usos de serviços específicos —  em outras palavras, trata-se de uma estratégia na qual a operadora, após o cliente esgotar sua franquia de dados, permite que ele continue usando um determinado serviço, sem custos.
 Na visão de muitos especialistas, as estratégias de zero-rating têm entrado diretamente em conflito com a neutralidade da rede, princípio que endereça a provedores de acesso o dever de tratar os pacotes de dados que trafegam em suas redes de forma isonômica, não os discriminando em razão de seu conteúdo ou origem. Planos de zero-rating, ao permitir que determinadas aplicações trafeguem de forma gratuita e que outras sejam bloqueadas ao término da franquia, feririam essa isonomia — fazendo com que os provedores de acesso tenham a capacidade de escolher quais conteúdos serão ou não disponíveis para usuários de forma diferenciada.[3]
+
+
 NUVEM
+
 A nuvem pode ser entendida como uma rede global de servidores. São aparelhos espalhados por todo o mundo para armazenar informações, executar aplicativos e fornecer serviços aos usuários.
 Salvar um documento na NUVEM é como arquivá-lo num computador pessoal. A diferença é que o conteúdo será gravado num dispositivo a quilômetros de distância.
 As informações viajam pela internet e vão parar num servidor, ou seja, um conjunto de HDs interligados. Os servidores, por sua vez, ficam abrigados em prédios conhecidos como data centers —  instalações que são protegidas por fortes esquemas de segurança e  são inacessíveis à maioria da população. Isso quer dizer que os dados digitais não vagam pelo limbo. Eles precisam de um local físico para existir.[4]
 
 
 BANCO DE DADOS
+
 Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador. Um banco de dados é geralmente controlado por um sistema de gerenciamento de banco de dados (DBMS). 
 
 
-DADOS & INFORMAÇÃO 
+DADOS & INFORMAÇÃO
+
 Os dados são elementos que constituem a matéria-prima da informação. Podemos defini-los, também, como conhecimento bruto, ainda não devidamente tratado para prover insights para uma organização.
 Assim, os dados representam um ou mais significados que, de forma isolada, não conseguem ainda transmitir uma mensagem clara.
 As informações são os dados devidamente tratados e analisados, produzindo conhecimento relevante. Ao contrário dos elementos brutos do tópico anterior, elas têm significados práticos e podem ser utilizadas para reforçar o processo de tomada de decisão.
