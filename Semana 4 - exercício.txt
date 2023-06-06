@@ -1,29 +1,34 @@
 ﻿->Explique as diferenças entre três linguagens de programação
 
-
-Para que os dados sejam processados, há a necessidade de se utilizar uma linguagem de programação, pois os computadores não executam diretamente os algoritmos. 
-
+Para que os dados sejam processados, há a necessidade de se utilizar uma linguagem de programação, 
+pois os computadores não executam diretamente os algoritmos. 
 
 Através desta linguagem, os dados e programas podem ser entendidos pelo computador.
 
 
-Exemplos de linguagem de programação:
-* Python: uma linguagem de programação de alto nível e de uso geral, que é conhecida por ser fácil de aprender e usar. É usada em uma variedade de aplicações, incluindo ciência de dados, inteligência artificial e desenvolvimento web.
-* Java: uma linguagem de programação orientada a objetos amplamente usada, que é conhecida por sua portabilidade e segurança. É usada em aplicações empresariais, jogos e aplicativos para dispositivos móveis.
-* C++: uma linguagem de programação de alto desempenho, orientada a objetos e amplamente usada, que é conhecida por sua eficiência e controle de hardware. É usada em jogos, aplicativos de desktop e sistemas operacionais.
+-> Exemplos de linguagem de programação:
+
+* Python: uma linguagem de programação de alto nível e de uso geral, que é conhecida por ser fácil de 
+aprender e usar. É usada em uma variedade de aplicações, incluindo ciência de dados, inteligência artificial 
+e desenvolvimento web.
+
+* Java: uma linguagem de programação orientada a objetos amplamente usada, que é conhecida por sua portabilidade
+e segurança. É usada em aplicações empresariais, jogos e aplicativos para dispositivos móveis.
+
+* C++: uma linguagem de programação de alto desempenho, orientada a objetos e amplamente usada, que é conhecida 
+por sua eficiência e controle de hardware. É usada em jogos, aplicativos de desktop e sistemas operacionais.
 
 
-* Tente fazer um código mínimo em cada uma delas
+-> Tente fazer um código mínimo em cada uma delas
+
 * Python: print(“Olá, professor!”) —> O programa simplesmente exibe a mensagem "Olá, professor!" 
-
 
 * C++:
  #include <iostream>
 int main() {
     std::cout << "Olá, professor!" << std::endl;
     return 0;
-}
-
+}   —> Ao compilar e executar esse código, veremos a saudação "Olá, professor!" sendo exibida no console.
 
 * Java:  
 public class SaudacaoProfessor {
