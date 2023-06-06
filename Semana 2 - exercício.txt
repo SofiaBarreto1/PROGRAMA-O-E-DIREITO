@@ -1,56 +1,98 @@
-﻿Encontre referências e comente a seguinte notícia: “ MPF investiga se algoritmo do INSS nega aposentadoria sem análise de mérito”
+﻿-->Encontre referências e comente a seguinte notícia: “ MPF investiga se algoritmo do INSS nega aposentadoria sem análise de mérito”
  
-A partir da denúncia de um cidadão, que alega possíveis irregularidades na negativa de requerimentos de benefícios previdenciários e assistenciais, a Procuradoria da República em Minas Gerais abriu um inquérito civil para investigar se o INSS (Instituto Nacional de Seguro Social) está negando pedidos de aposentadoria com base, apenas, em um sistema automatizado. 
-
-De acordo com o INSS, cerca de 30% dos pedidos passam pelo sistema informatizado —  que foi implementado com o objetivo de diminuir a fila e agilizar as respostas aos beneficiários. O robô do INSS, no entanto, estaria falhando ao negar a aposentadoria sem observar o mérito de forma adequada. O algoritmo em questão supostamente usa inteligência artificial para analisar pedidos de benefícios de aposentadoria, mas não está claro como o algoritmo funciona ou quais fatores específicos ele leva em consideração. A investigação, nesse sentido, visa determinar se o algoritmo não está considerando adequadamente todas as informações relevantes no processo de inscrição, levando a negações indevidas de benefícios.
-
+A partir da denúncia de um cidadão, que alega possíveis irregularidades na negativa de requerimentos de benefícios 
+previdenciários e assistenciais, a Procuradoria da República em Minas Gerais abriu um inquérito civil para investigar 
+se o INSS (Instituto Nacional de Seguro Social) está negando pedidos de aposentadoria com base, apenas, em um 
+sistema automatizado. 
+De acordo com o INSS, cerca de 30% dos pedidos passam pelo sistema informatizado —  que foi implementado com o 
+objetivo de diminuir a fila e agilizar as respostas aos beneficiários. O robô do INSS, no entanto, estaria 
+falhando ao negar a aposentadoria sem observar o mérito de forma adequada. O algoritmo em questão supostamente 
+usa inteligência artificial para analisar pedidos de benefícios de aposentadoria, mas não está claro como o 
+algoritmo funciona ou quais fatores específicos ele leva em consideração. A investigação, nesse sentido, visa 
+determinar se o algoritmo não está considerando adequadamente todas as informações relevantes no processo de 
+inscrição, levando a negações indevidas de benefícios.
+FONTES:
 https://elisangelacoelho.adv.br/mpf-investiga-se-o-inss-esta-negando-os-pedidos-sem-analise-justa/
 https://politicalivre.com.br/2023/03/mpf-investiga-se-algoritmo-do-inss-nega-aposentadorias-sem-analise-de-merito/#gsc.tab=0
 
 
+-->Análise de crédito pode usar algoritmos?
 
+O ambiente de negócios atual está muito competitivo. Especificamente no caso de crédito bancário, a posse e o 
+uso de ferramentas que auxiliem na tarefa de classificação de clientes em prováveis solventes e insolventes 
+são um fator-chave, que resulta numa grande vantagem competitiva.
+A partir da década de 1980, passou-se a ter maior facilidade de acesso a equipamentos computacionais e houve 
+uma queda no custo de armazenamento de dados. Com isso, algumas empresas verificaram que, em meio a essa imensa 
+quantidade de dados, informações valiosas poderiam estar escondidas. Em função dessa percepção, elas passaram 
+a buscar meios de transformar os da dos em informação. Isso acontece quando o dado ganha um significado para 
+seu utilizador; caso contrário, continua sendo simplesmente um dado.
 
-Análise de crédito pode usar algoritmos?
+A Mineração de Dados (Data Mining) é uma nova metodologia para melhorar a qualidade e a eficiência das 
+decisões, por meio da obtenção de conhecimento útil para tomada de decisões estratégicas, baseada nos 
+dados históricos armazenados. Ao fazer-se o correto uso de ferramentas na análise de crédito, várias 
+são as vantagens obtidas, dentre as quais podem ser destacadas:
 
-O ambiente de negócios atual está muito competitivo. Especificamente no caso de crédito bancário, a posse e o uso de ferramentas que auxiliem na tarefa de classificação de clientes em prováveis solventes e insolventes são um fator-chave, que resulta numa grande vantagem competitiva.
-A partir da década de 1980, passou-se a ter maior facilidade de acesso a equipamentos computacionais e houve uma queda no custo de armazenamento de dados. Com isso, algumas empresas verificaram que, em meio a essa imensa quantidade de dados, informações valiosas poderiam estar escondidas. Em função dessa percepção, elas passaram a buscar meios de transformar os da dos em informação. Isso acontece quando o dado ganha um significado para seu utilizador; caso contrário, continua sendo simplesmente um dado.
-
-A Mineração de Dados (Data Mining) é uma nova metodologia para melhorar a qualidade e a eficiência das decisões, por meio da obtenção de conhecimento útil para tomada de decisões estratégicas, baseada nos dados históricos armazenados. Ao fazer-se o correto uso de ferramentas na análise de crédito, várias são as vantagens obtidas, dentre as quais podem ser destacadas:
-
-• necessidade de menos pessoas envolvidas com a análise do crédito, as quais podem ser aproveitadas em outras atividades;
+• necessidade de menos pessoas envolvidas com a análise do crédito, as quais podem ser aproveitadas 
+em outras atividades;
 • maior rapidez no processamento dos pedidos de crédito;
 • menor subjetividade no processo;
 • direcionamento mais eficaz do crédito.
 
-Existem diversas técnicas de Mineração de Dados — como a Análise de Cluster, Árvores de Decisão, Redes Neurais, Indução de Regras, Algoritmos Genéticos, Aprendizado Baseado em Casos — que podem ser usadas para a classificação de empresas como prováveis adimplentes ou inadimplentes.
-Árvores de Decisão, por exemplo, são as únicas a apresentar os resultados hierarquicamente (com priorização). Nelas, o atributo mais importante é apresentado na árvore como o primeiro nó, e os atributos menos relevantes são mostradas nos nós subseqüentes. A vantagem principal das Árvores de Decisão é a tomada de decisões levando em consideração os atributos mais relevantes, além de compreensíveis para a maioria das pessoas. Ao escolher e apresentar os atributos em ordem de importância, as Árvores de Decisão permitem aos usuários conhecer quais fatores mais influenciam os seus trabalhos.
+Existem diversas técnicas de Mineração de Dados — como a Análise de Cluster, Árvores de Decisão, 
+Redes Neurais, Indução de Regras, Algoritmos Genéticos, Aprendizado Baseado em Casos — que podem 
+ser usadas para a classificação de empresas como prováveis adimplentes ou inadimplentes.
+Árvores de Decisão, por exemplo, são as únicas a apresentar os resultados hierarquicamente (com priorização). 
+Nelas, o atributo mais importante é apresentado na árvore como o primeiro nó, e os atributos menos relevantes 
+são mostradas nos nós subseqüentes. A vantagem principal das Árvores de Decisão é a tomada de decisões levando 
+em consideração os atributos mais relevantes, além de compreensíveis para a maioria das pessoas. Ao escolher e 
+apresentar os atributos em ordem de importância, as Árvores de Decisão permitem aos usuários conhecer quais 
+fatores mais influenciam os seus trabalhos.
 
-As técnicas de Mineração de Dados mostraram ser ferramentas de grande valia para os analistas de crédito bancário. Desse modo, utilizando as informações cadastrais de empresas, os analistas têm condições de diagnosticar novas empresas em relação ao merecimento de crédito. Neste artigo, os resultados fornecidos pelos dois métodos utilizados comprovaram sua eficiência na classificação das empresas como adimplentes ou inadimplentes. Convém ressaltar que, mesmo com uma sinalização totalmente favorável à concessão de crédito a um novo cliente, ele pode vir a tornar-se um cliente inadimplente, visto que a economia ainda não está totalmente estabilizada.
-
+As técnicas de Mineração de Dados mostraram ser ferramentas de grande valia para os analistas de crédito bancário. 
+Desse modo, utilizando as informações cadastrais de empresas, os analistas têm condições de diagnosticar novas 
+empresas em relação ao merecimento de crédito. Neste artigo, os resultados fornecidos pelos dois métodos utilizados
+comprovaram sua eficiência na classificação das empresas como adimplentes ou inadimplentes. Convém ressaltar que, 
+mesmo com uma sinalização totalmente favorável à concessão de crédito a um novo cliente, ele pode vir a tornar-se 
+um cliente inadimplente, visto que a economia ainda não está totalmente estabilizada.
+FONTES:
 http://rausp.usp.br/wp-content/uploads/files/V4003225.pdf
-Eliane Prezepiorski Lemos. Maria Teresinha Arns Steiner. Julio César Nievola. Análise de crédito bancário por meio de redes neurais e árvores de decisão: uma aplicação simples de data mining. 
+Eliane Prezepiorski Lemos. Maria Teresinha Arns Steiner. Julio César Nievola. Análise de crédito bancário 
+por meio de redes neurais e árvores de decisão: uma aplicação simples de data mining. 
 
 
+-->Negativa de crédito precisa ser justificada?
 
+O consumidor fica constrangido e até indignado quando tem um pedido de crédito negado, mesmo estando com o 
+nome limpo no SPC e Serasa. As empresas na maioria dos casos não apresentam justificativas ou razões claras
+para a recusa em conceder o crédito, porém, você tem o direito de saber o motivo da negativa conforme assegura 
+o Código de Defesa do Consumidor.
 
-Negativa de crédito precisa ser justificada?
+Crédito é confiança. Por isso, as instituições financeiras têm liberdade para analisar o perfil do consumidor 
+e se entenderem que aquele consumidor não terá condições de pagar, não são obrigadas a emprestar dinheiro.
 
-O consumidor fica constrangido e até indignado quando tem um pedido de crédito negado, mesmo estando com o nome limpo no SPC e Serasa. As empresas na maioria dos casos não apresentam justificativas ou razões claras para a recusa em conceder o crédito, porém, você tem o direito de saber o motivo da negativa conforme assegura o Código de Defesa do Consumidor.
-
-Crédito é confiança. Por isso, as instituições financeiras têm liberdade para analisar o perfil do consumidor e se entenderem que aquele consumidor não terá condições de pagar, não são obrigadas a emprestar dinheiro.
-
-Embora as instituições de crédito tenham o direito de negar o pedido de empréstimo, o Código de Defesa do Consumidor assegura que o consumidor deve ser informado sempre que houver recusa no pedido, independente de qual seja o motivo. A informação correta acerca do produto e serviço é um direito básico do consumidor. Só que o CDC vai além, pois assegura ao consumidor o direito à informação também acerca de sua pessoa, sobre seus cadastros e seus dados.
-As instituições podem até negar o pedido de empréstimo, mas precisam informar o motivo exato da negativa, para que o consumidor tenha a oportunidade de saber onde está o problema. Como são dotadas de liberdade para emprestar ou não, cada instituição pode adotar seu próprio critério de análise, mas, se negar, não pode responder de forma genérica com a simples informação que o crédito foi negado, sem dizer o motivo.
+Embora as instituições de crédito tenham o direito de negar o pedido de empréstimo, o Código de Defesa do Consumidor 
+que o consumidor deve ser informado sempre que houver recusa no pedido, independente de qual seja o motivo. A 
+informação correta acerca do produto e serviço é um direito básico do consumidor. Só que o CDC vai além, pois assegura 
+ao consumidor o direito à informação também acerca de sua pessoa, sobre seus cadastros e seus dados.
+As instituições podem até negar o pedido de empréstimo, mas precisam informar o motivo exato da negativa, para que o 
+consumidor tenha a oportunidade de saber onde está o problema. Como são dotadas de liberdade para emprestar ou não, 
+cada instituição pode adotar seu próprio critério de análise, mas, se negar, não pode responder de forma genérica 
+com a simples informação que o crédito foi negado, sem dizer o motivo.
+FONTE:
 https://www.proteste.org.br/dinheiro/emprestimo-consorcio-e-financiamento/noticia/teve-o-credito-negado-voce-deve-ser-informado-sobre-o-motivo
 
 
+-->Explique o termo com referências: Rede Neural Artificial
 
+Redes Neurais Artificiais são técnicas computacionais que apresentam um modelo matemático inspirado na estrutura 
+neural de organismos inteligentes e que adquirem conhecimento através da experiência. Uma grande rede neural 
+artificial pode ter centenas ou milhares de unidades de processamento; já o cérebro de um mamífero pode ter muitos 
+bilhões de neurônios.
 
-Explique o termo com referências: Rede Neural Artificial
-
-Redes Neurais Artificiais são técnicas computacionais que apresentam um modelo matemático inspirado na estrutura neural de organismos inteligentes e que adquirem conhecimento através da experiência. Uma grande rede neural artificial pode ter centenas ou milhares de unidades de processamento; já o cérebro de um mamífero pode ter muitos bilhões de neurônios.
-
-Uma rede neural artificial é composta por várias unidades de processamento, cujo funcionamento é bastante simples. Essas unidades, geralmente são conectadas por canais de comunicação que estão associados a determinado peso. As unidades fazem operações apenas sobre seus dados locais, que são entradas recebidas pelas suas conexões. O comportamento inteligente de uma Rede Neural Artificial vem das interações entre as unidades de processamento da rede.
+Uma rede neural artificial é composta por várias unidades de processamento, cujo funcionamento é bastante simples. 
+Essas unidades, geralmente são conectadas por canais de comunicação que estão associados a determinado peso. As 
+unidades fazem operações apenas sobre seus dados locais, que são entradas recebidas pelas suas conexões. O 
+comportamento inteligente de uma Rede Neural Artificial vem das interações entre as unidades de processamento da rede.
 
 A operação de uma unidade de processamento, proposta por McCullock e Pitts em 1943, pode ser resumida da seguinte maneira:
 * Sinais são apresentados à entrada;
@@ -58,14 +100,17 @@ A operação de uma unidade de processamento, proposta por McCullock e Pitts em 
 * É feita a soma ponderada dos sinais que produz um nível de atividade;
 * Se este nível de atividade exceder um certo limite (threshold) a unidade produz uma determinada resposta de saída.
 
-A propriedade mais importante das redes neurais é a habilidade de aprender de seu ambiente e com isso melhorar seu desempenho. Isso é feito através de um processo iterativo de ajustes aplicado a seus pesos, o treinamento. O aprendizado ocorre quando a rede neural atinge uma solução generalizada para uma classe de problemas.
-
+A propriedade mais importante das redes neurais é a habilidade de aprender de seu ambiente e com isso melhorar seu 
+desempenho. Isso é feito através de um processo iterativo de ajustes aplicado a seus pesos, o treinamento. O 
+aprendizado ocorre quando a rede neural atinge uma solução generalizada para uma classe de problemas.
+FONTE:
 https://sites.icmc.usp.br/andre/research/neural/
 
 
+-->Inclua seus comentários
 
-
-Inclua seus comentários
-
-Muito interessante a discussão sobre a reportagem do algoritmo do INSS que possivelmente nega aposentadoria sem análise de mérito. O tema revela como é perigosa a confiança cega em robôs. Me remeteu — tendo em mente, é claro, todas as devidas diferenças entre os casos — a uma matéria que li uma vez no UOL, sobre a possibilidade de robôs se tornarem racistas e sexistas se a rede neural apresentar falhas. 
+Muito interessante a discussão sobre a reportagem do algoritmo do INSS que possivelmente nega aposentadoria sem 
+análise de mérito. O tema revela como é perigosa a confiança cega em robôs. Me remeteu — tendo em mente, é claro, 
+todas as devidas diferenças entre os casos — a uma matéria que li uma vez no UOL, sobre a possibilidade de robôs 
+se tornarem racistas e sexistas se a rede neural apresentar falhas. 
 Deixo aqui o link da matéria: https://www.uol.com.br/tilt/noticias/redacao/2022/06/22/robos-autonomos-podem-ser-racistas-pesquisadores-mostram-que-sim.htm
