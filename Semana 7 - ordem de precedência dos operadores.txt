@@ -1,0 +1,11 @@
+﻿—> Pesquisar ordem de precedência dos operadores (aritméticos e lógicos) e como eles podem ser modificados.
+
+
+A ordem de precedência de operadores é a seguinte: 
+1. Parentesis
+2. Expoentes
+3. Multiplicação e divisão (da esquerda para direita)
+4. Somas e subtrações (da esquerda para direita)
+
+
+É possível modificar a ordem de precedência dos operadores em uma expressão por meio do uso de parênteses. Ao envolver uma parte da expressão entre parênteses, você está indicando que essa parte deve ser avaliada primeiro, independentemente da ordem de precedência padrão.
